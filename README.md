@@ -1,5 +1,3 @@
-By: Felipe Claver Diniz [VS Code]
-
 Centro Universitário UNA<br>
 Programação de Soluções Computacionais<br>
 Professor Daniel Henrique Matos de Paiva<br>
