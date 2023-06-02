@@ -18,7 +18,7 @@ RA: 4231921507
 Nátali Isaltino Gomes  - Exercício 
 RA: 4231925815 
 
-Vinicius de Oliveira Santos  - Exercício 
+Vinicius de Oliveira Santos  - Exercício 6
 RA: 42115981
 
 Izabelle da Rocha Serafim - Exercício 
